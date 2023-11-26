@@ -11,7 +11,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 <img src="https://i.ibb.co/59WtF2b/ss1.png" alt="Instagram_Sample" width="320" height="400">
+<img src="https://i.ibb.co/g4Z637S/ss4.png" alt="Instagram_Sample2" width="320" height="400">
 <img src="https://i.ibb.co/LRYS1tW/ss2.png" alt="YoutubeMusic_Sample" width="320" height="400">
+<img src="https://i.ibb.co/H44dgTd/ss5.png" alt="YoutubeMusic_Sample2" width="320" height="400">
 <img src="https://i.ibb.co/QnyfHGQ/ss3.png" alt="Explore_Sample" width="320" height="400">
+<img src="https://i.ibb.co/SV1Brx5/ss6.png" alt="Explore_Sample2" width="320" height="400">
 
 [@keyvanarasteh] (https://github.com/keyvanarasteh)
